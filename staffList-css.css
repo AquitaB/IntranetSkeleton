@@ -1,0 +1,11 @@
+﻿
+.container2 a {
+    color: white;
+    background-color: #0b2246;
+    padding:10px;
+    border-radius:10px;
+}
+
+.staff-list-container2 li{
+    display:inline;
+}

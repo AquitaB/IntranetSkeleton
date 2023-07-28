@@ -1,0 +1,142 @@
+﻿<!--<%@ Page Language="VB" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="_Default" %>-->
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <script src="Index.js"></script>
+    <link rel="stylesheet" href="IntranetStyle.css" />
+    <title>SOS Intranet</title>
+</head>
+<body>
+    <div class="container container1">
+        <div class="row">
+            <div class="cell">
+                <!-- logo -->
+                <a href="Default.aspx"><img src="images/MWO-SOS-Logo-OL-IGWT.png" alt="SOS-Logo" style="width:428px; height:83.45px; margin-left:280px;" /></a>
+            </div>
+            <div class="cell">
+                <!-- navigation menu -->
+                <ul class="topNav">
+                    <li>
+                        <a href="Default.aspx" class="dropbtn"><img src="images/Home Icon.png" alt="Home Logo" />Home</a>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="dropbtn"><img src="images/Agency List Icon.png" alt="Agency Staff List " /> Agency Staff List</button>
+                            <div class="dropdown-content">
+                                <a href="#">By Division</a>
+                                <a href="#">By Last Name</a>
+                                <a href="#">By First Name</a>
+                                <a href="#">State Goverment Directory Link</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="FAQs.html"><img src="images/FAQ Icon.png" />FAQs</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row welcome-header">
+            <div class="cell">
+                <h2> Welcome to your Intranet Dasherboard, <span class="welcome-span">User </span>!</h2>
+            </div>
+        </div>
+    </div>
+    <div class="container container2">
+        <div class="row">
+            <div class="cell imgCell">
+                <!-- hero image section -->
+                <img src="images/banner.png" alt="banner image" />
+            </div>
+        </div>
+    </div>
+    <div class="container container5">
+        <div class="row">
+            <div class="cell">
+                <form action="https:www.example.com/profile.php">
+                    <p>Please select all that you have read:</p>
+                    <br />
+                    <ul>
+                        <li><input id="form" type="checkbox" name="policies" value="employee-guidebook" /> Employee Handbook</li>
+                        <li><input type="checkbox" name="policies" value="employee-guidebook" /> Code of Ethics</li>
+                        <li><input type="checkbox" name="policies" value="employee-guidebook" /> Drug and Alcool Polociy</li>
+                        <li><input type="checkbox" name="policies" value="employee-guidebook" /> Clean Desk</li>
+                        <li><input type="checkbox" name="policies" value="employee-guidebook" /> Internet and Electronic Mail Policy</li>
+                        <li><input type="checkbox" name="policies" value="employee-guidebook" /> Password Policy</li>
+                        <li><input type="checkbox" name="policies" value="employee-guidebook" /> Capital Expense-Contract and Release Approval Policy</li>
+                        <li><input type="checkbox" name="policies" value="employee-guidebook" /> Vehicle User Policy</li>
+                        <li><input type="checkbox" name="policies" value="employee-guidebook" /> Social Networking Policy</li>
+                        <li><input type="checkbox" name="policies" value="employee-guidebook" /> Catastrophic Sick Leave Pool Policy</li>
+                        <li><input type="checkbox" name="policies" value="employee-guidebook" /> Confidential Information Disposal Policy</li>
+                        <li><input type="checkbox" name="policies" value="employee-guidebook" /> Network and PC Policy</li>
+                        <li><input type="checkbox" name="policies" value="employee-guidebook" /> Customer Information and Security Policy</li>
+                        <li><input type="checkbox" name="policies" value="employee-guidebook" /> Vendor Management Policy</li>
+                    </ul>
+                </form>
+            </div>
+        </div>
+        <div class="cell">
+            <div class="progress" role="progressbar" aria-label="Animated striped example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 75%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="container container3">
+        <div class="row">
+            <div class="cell">
+                <ul>
+                    <li>
+                        <a href="policies.html">
+                            <img src="images/policies_and_procedures.png" alt="Policies and Procedures Icon" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="timeReporting.html">
+                            <img src="images/time_reporting.png" alt="Time Reporting Icon" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Benefits.html">
+                            <img src="images/benefits.png" alt="Benefits Icon" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Forms.html">
+                            <img src="images/forms.png" alt="Forms" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="TechServices.html">
+                            <img src="images/technology_services.png" alt="Technolofy Services Icon" />
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container4">
+        <div class="row">
+            <div class="cell">
+                <ul>
+                    <li>
+                        <img src="images/Facebook Icon.png" alt="Facebook Logo" />
+                    </li>
+                    <li>
+                        <img src="images/Twitter Icon.png" alt="Twiiter" />
+                    </li>
+                    <li>
+                        <img src="images/Instagram Icon.png" alt="Instagram Logo" />
+                    </li>
+                    <li>
+                       <img src="images/You Tube Icon.png" alt="YouTube Logo" />
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
