@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="33.333332"
+   height="33.333332"
+   viewBox="0 0 33.333332 33.333332"
+   sodipodi:docname="home-icon.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,25 H 25 V 0 H 0 Z"
+         id="path14" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="home-icon"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,33.333333)">
+    <g
+       id="g10">
+      <g
+         id="g12"
+         clip-path="url(#clipPath16)">
+        <g
+           id="g18"
+           transform="translate(21.0661,1.403)">
+          <path
+             d="m 0,0 h -17.126 v -0.007 h -0.779 V -1.351 H 0.778 v 1.344 L 0,-0.007 Z M -8.569,23.545 -21.054,10.475 -19.383,8.727 -8.479,19.632 2.335,8.818 3.922,10.478 Z M 0,0.786 v 9.256 c -3.612,3.611 -8.16,8.16 -8.479,8.478 -0.323,-0.323 -5.01,-5.01 -8.647,-8.648 V 0.786 h 5.266 v 10.023 h 6.594 V 0.786 Z"
+             style="fill:#162952;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="46.666668"
+   height="46.666668"
+   viewBox="0 0 46.666668 46.666668"
+   sodipodi:docname="instagram-con.eps"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="ink_ext_XXXXXX"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,46.666667)">
+    <g
+       id="g10"
+       transform="scale(0.1)">
+      <path
+         d="M 347.305,175.188 C 347.305,80.0273 270.16,2.88281 175,2.88281 79.8398,2.88281 2.69531,80.0273 2.69531,175.188 c 0,95.16 77.14449,172.304 172.30469,172.304 95.16,0 172.305,-77.144 172.305,-172.304"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path12" />
+      <path
+         d="m 175,133.656 c -22.937,0 -41.531,18.594 -41.531,41.532 0,22.937 18.594,41.531 41.531,41.531 22.938,0 41.531,-18.594 41.531,-41.531 0,-22.938 -18.593,-41.532 -41.531,-41.532 z m 0,103.016 c -33.953,0 -61.48,-27.527 -61.48,-61.484 0,-33.958 27.527,-61.481 61.48,-61.481 33.957,0 61.48,27.523 61.48,61.481 0,33.957 -27.523,61.484 -61.48,61.484"
+         style="fill:#1c294e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path14" />
+      <path
+         d="m 279.234,125.648 c 0,-30.2066 -24.488,-54.6949 -54.695,-54.6949 h -99.078 c -30.2071,0 -54.6954,24.4883 -54.6954,54.6949 v 99.079 c 0,30.207 24.4883,54.695 54.6954,54.695 h 99.078 c 30.207,0 54.695,-24.488 54.695,-54.695 z m -57.41,174.403 h -93.648 c -43.1018,0 -78.0393,-34.938 -78.0393,-78.039 v -93.649 c 0,-43.1013 34.9375,-78.0388 78.0393,-78.0388 h 93.648 c 43.102,0 78.039,34.9375 78.039,78.0388 v 93.649 c 0,43.101 -34.937,78.039 -78.039,78.039"
+         style="fill:#1c294e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path16" />
+      <path
+         d="m 251.953,239.656 c 0,-7.347 -5.953,-13.301 -13.301,-13.301 -7.343,0 -13.3,5.954 -13.3,13.301 0,7.348 5.957,13.301 13.3,13.301 7.348,0 13.301,-5.953 13.301,-13.301"
+         style="fill:#1c294e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path18" />
+    </g>
+  </g>
+</svg>
