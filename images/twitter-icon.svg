@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="46.666668"
+   height="46.666668"
+   viewBox="0 0 46.666668 46.666668"
+   sodipodi:docname="twitter-icon.eps"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="ink_ext_XXXXXX"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,46.666667)">
+    <g
+       id="g10"
+       transform="scale(0.1)">
+      <path
+         d="M 347.305,175.188 C 347.305,80.0273 270.16,2.88281 175,2.88281 79.8398,2.88281 2.69531,80.0273 2.69531,175.188 c 0,95.16 77.14449,172.304 172.30469,172.304 95.16,0 172.305,-77.144 172.305,-172.304"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path12" />
+      <path
+         d="m 280.02,252 c -1.903,-9.566 -7.473,-15.379 -12.59,-21.922 5.547,1.563 11.097,3.125 17.961,5.059 -1.258,-2.496 -1.766,-4.313 -2.891,-5.578 -3.883,-4.371 -7.676,-8.899 -12.09,-12.688 -3.402,-2.918 -4.863,-5.902 -5.039,-10.406 -1.332,-33.66 -13.16,-63 -37.348,-86.766 -20.57,-20.2068 -45.496,-30.6717 -74.339,-32.6248 -23.875,-1.6133 -46.153,3.0664 -67.1567,14.2968 -2.121,1.137 -4.0664,2.609 -6.0742,4.695 21.0269,-0.191 40.6019,3.84 58.4489,16.754 -18.027,3.532 -30.843,12.246 -36.875,30.555 5.086,0 9.211,0 13.34,0 -17.5623,8.84 -27.5662,22.102 -28.324,42.859 5.625,-1.629 10.2461,-2.964 15.539,-4.5 -16.3437,21.496 -19.6289,43.977 -6.9843,56.45 0.8437,-1.567 1.414,-3.395 2.582,-4.688 19.4253,-21.48 43.5353,-34.305 72.1213,-38.797 7.883,-1.238 9.035,-0.316 9.012,7.684 -0.051,17.765 8.203,30.781 23.734,38.539 15.824,7.906 31.43,6.043 45.523,-4.746 3.86,-2.953 7.368,-3.805 11.739,-2.004 4.586,1.894 9.214,3.683 13.828,5.516 1.562,0.621 3.133,1.234 5.883,2.312"
+         style="fill:#1c294e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path14" />
+    </g>
+  </g>
+</svg>
