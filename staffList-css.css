@@ -1,9 +1,204 @@
-﻿
+﻿.container {
+    display: table;
+}
+
+.row {
+    display: table-row;
+}
+
+.cell {
+    display: table-cell;
+}
+
+body {
+    margin:0;
+    background-color: #0b2246;
+}
+/*OPEN CONTAINER1 RULES*/
+.container1 {
+    width: 100%;
+    background-color: white;
+    /*border:2px solid red;*/
+    border-bottom: 5px solid #9f935f;
+    margin-bottom: 25px;
+}
+
+.container1 .cell1 {
+    width: calc(100%/3);
+    /*text-align: right;*/
+}
+
+.container1 img {
+    /*border: 2px dotted green;*/
+    width: 80%;
+    vertical-align: middle;
+    margin-left:5px;
+}
+
+.container1 ul {
+    /*border: 2px dotted green;*/
+    text-align: center;
+}
+
+.container1 li {
+    display: inline;
+    font-size: 25px;
+    font-weight: bold;
+    /*border:2px solid orange;*/
+    margin: 0 30px 0 30px;
+}
+
+.container1 li a {
+    text-decoration: none;
+    color: #0b2246;
+}
+
+.container1 li a:hover {
+    background: #9f935f;
+    padding: 10px;
+    border-radius: 5%;
+    /*border-bottom-left-radius:50%;*/
+    margin: 0 15px 0 15px;
+    color: white;
+}
+
+.employee_name_cell {
+    /*border: 2px dotted green;*/
+    /*float:right;*/
+    font-size: 18px;
+    font-weight: 500;
+}
+/*CLOSE CONTAINER1 RULES*/
+
+
+.headerRow .container{
+    margin:0 auto;
+}
+/*SEARCH CHOICES OPEN*/
+.searchChoices {
+    margin: 0 auto;
+    text-align: center;
+    width: 80%;
+    margin-bottom: 25px;
+}
+.searchChoices h1 {
+    color: white;
+}
+.searchChoices button{
+    /*border: #9f935f 2px solid;*/
+    border:#9f935f 2px solid;
+    width: calc(100%/6);
+    font-size: 16px;
+    background-color: #0b2246;
+    color: #9f935f;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 15px;
+    cursor:pointer;
+}
+.searchChoices button:hover {
+    background-color: #0b2246;
+    font-size: 24px;
+    cursor: pointer;
+}
+/*SEARCH CHOICES CLOSE*/
+/*ALPHABET OPEN */
+.alphabet{
+    /*border:2px solid red;*/
+    margin: 0 auto;
+    width: 80%;
+    margin-bottom: 25px;
+}
+.alphabet button {
+    border: white 2px solid;
+    width: calc(100%/29);
+    font-size: 16px;
+    background-color: #0b2246;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 6px;
+}
+.alphabet button:hover {
+    background-color: #0b2246;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+/*ALPHABET CLOSE*/
+/*STAFF DATA*/
+.staffData {
+    /*border: 2px solid orange;*/
+    width: 80%;
+    /*background-color: #0b2246;*/
+    margin: 0 auto;
+    font-size:20px;
+}
+.staffDataHeader {
+    background-color: white;
+    color: #0b2246;
+    /*width: 80%;*/
+    margin: 0 auto;
+    border-top-left-radius: 8px;
+    text-align: center;
+    border-top-right-radius: 8px;
+}
+
+.staffDataHeader .cell {
+    width: calc(100%/4);
+    font-weight: bold;
+    /*border: solid red;
+    border-width: 2px 2px 0 0;*/
+    /*border-radius:5px 0px 0px 0px;*/
+}
+.staffDataHeader .cell:nth-last-child(4) {
+    /*border: solid red;
+    border-width: 2px 2px 0 2px;*/
+    border-top-left-radius: 8px;
+}
+.staffDataHeader .cell:nth-last-child(1) {
+    border-top-right-radius: 8px;
+}
+.staffDataData1 {
+    margin: 0 auto;
+    /*width: 80%;*/
+    text-align: center;
+    color:white;
+}
+
+.staffDataData1 .cell {
+    width: calc(100%/4);
+    border: solid white;
+    border-width: 2px 2px 0 0;
+    padding: 5px;
+}
+.staffDataData2 {
+    margin: 0 auto;
+    /*width: 80%;*/
+    text-align: center;
+    color: white;
+}
+
+.staffDataData2{
+    background: #9f935f;
+}
+
+.staffDataData2 .cell {
+    width: calc(100%/4);
+    border: solid white;
+    border-width: 2px 2px 0 0;
+    padding: 5px;
+}
+.staffDataData1 .cell:nth-last-child(4),.staffDataData2 .cell:nth-last-child(4) {
+    border: solid white;
+    border-width: 2px 2px 0 2px;
+}
+/*staff data close*/
 .container2 a {
     color: white;
     background-color: #0b2246;
-    padding:10px;
-    border-radius:10px;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .staff-list-container2 li{
