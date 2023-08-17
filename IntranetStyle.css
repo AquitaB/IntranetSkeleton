@@ -71,12 +71,18 @@ a {
 .hero-image {
     text-align: center;
 }
+
+.titleBannerContainer{
+    margin:0 auto 50px;
+    /*margin-bottom:50px;*/
+}
 /*CLOSE 'HERO' RULES*/
 /*OPEN 'CONTAINER3 RULES*/
 .container3 {
     display: flex;
     justify-content: center;
     margin-bottom: 54px;
+    /*height:400px;*/
 }
 .container3 li{
     display: inline;
@@ -85,15 +91,20 @@ a {
     width:300px;
     height:300px
 }
+
+.benefitsContainer, .faqsContainer, .formsContainer, .policyContainer, .timeReportingContainer, .techServiceContainer {
+    margin: 0 auto;
+    height:380px;
+}
 /*CLOSE CONTAINER3 RULES*/
 /*OPEN CONTAINER 4 RULES*/
 .container4 {
     background-color: var(--primary-color);
-    display:flex;
-    justify-content:center;
+    display: flex;
+    justify-content: center;
 }
 .container4 ul {
-    padding:0;
+    padding: 0;
 }
 .container4 li {
     padding: 5px;
